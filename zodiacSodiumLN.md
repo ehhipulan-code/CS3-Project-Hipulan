@@ -1,3 +1,6 @@
+# Chinese Zodiac Sign Project
+
+##Requirements
 1. Create a zodiacSectionLN.py file. This file will contain your solutions to the
 requirements below:
 a. Ask the user to enter a year of birth. The baseline year 1900.
@@ -45,7 +48,7 @@ Your Chinese Zodiac Sign is: Dragon (龙/ Lóng)
 
 
 
-
+##Actual code
 def chineseZodiacSign(year):
     return ( year - 1900 )% 12
     
@@ -105,5 +108,5 @@ else:
 
 
 
-
+##Output
 <img width="950" height="557" alt="image" src="https://github.com/user-attachments/assets/c0b2d568-8151-46c0-88cc-aacbec0d9a33" />
